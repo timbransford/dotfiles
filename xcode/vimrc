@@ -1,0 +1,23 @@
+syntax on
+
+" Beginning of line is zero`
+nmap 0 ^
+
+" Set this as soon as possible
+let mapleader ="\<Space>"
+
+nmap <leader>w :w<cr>
+
+imap jk <esc>
+imap kj <esc>
+
+set number
+
+set expandtab
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set textwidth=80
+set autoindent
+
+

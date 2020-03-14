@@ -11,7 +11,7 @@ let g:ctrlp_show_hidden = 1
 
 execute pathogen#infect()
 " Set a color_scheme
-colorscheme afterglow
+colorscheme atom
 
 syntax on
 
